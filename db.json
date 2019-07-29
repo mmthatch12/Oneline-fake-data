@@ -1,0 +1,19 @@
+{
+    "posts":[
+      {
+        "date": "Jan 21, 2019",
+        "title": "Best Day Yet!",
+        "content": "Today I went to the moon!"
+      },
+      {
+        "date": "Feb 21, 2019",
+        "title": "Not Best Day Yet!",
+        "content": "Today I went to lagoon!"
+      },
+      {
+        "date": "May 21, 2019",
+        "title": "Almost Best Day Yet!",
+        "content": "Today I went to cameroon!"
+      }
+    ]
+}
